@@ -3,9 +3,9 @@
 test version 12 Angular
 components, services and db.json
 
-ng i
-ng serve
-npm run server
+- ng i
+- ng serve
+- npm run server
 
 
 
